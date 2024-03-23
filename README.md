@@ -13,10 +13,10 @@
 <div align="center" >
 
 [![MeuSite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://igorlazzaretti.com)
-[![Youtube](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://igorlazzaretti.com)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://igorlazzaretti.com)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://igorlazzaretti.com)
-[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://igorlazzaretti.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorlazzaretti/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5554999489840&text&type=phone_number&app_absent=0)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@idLazzaretti/streams)
+[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/dev.igorlzzrtt)
 
 </div>
 
@@ -37,10 +37,10 @@
 <div align="center" >
 
 <a href="https://github.com/igorlazzaretti?tab=repositories">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=igorlazzaretti&theme=dark&show_icons=trues" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=igorlazzaretti&theme=dark&show_icons=trues" />
 </a>
 <a href="hhttps://github.com/igorlazzaretti?tab=repositories">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorlazzaretti&layout=compact&theme=dark" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorlazzaretti&layout=compact&theme=dark" />
 </a>
 
 
