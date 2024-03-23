@@ -1,6 +1,6 @@
 <h2 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=600&size=30&pause=1000&color=ED51F7&center=true&vCenter=true&random=false&width=440&height=55&lines=Ol%C3%A1!+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;Meu+nome+%C3%A9+Igor;Hello+%F0%9F%91%8B;My+name+is+Igor)](https://igorlazzaretti.com/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=600&size=30&duration=3000&pause=700&color=ED51F7&center=true&vCenter=true&random=false&width=440&height=55&lines=Ol%C3%A1!+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;Meu+nome+%C3%A9+Igor;Hello+%F0%9F%91%8B;My+name+is+Igor)](https://git.io/typing-svg)
 </h2>
 
 🧙‍♂️ Fâ de Harry Potter <br> 
@@ -27,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"  title="Bootstrap" alt="Bootstrap" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/452211/github.svg" title="GitHub" **alt="GitHub" width="50" height="50"/>
   <img src="https://desktop.github.com/images/desktop-icon.svg" title="Github Desktop" **alt="GitHub Desktop" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" title="Windows" **alt="Windows" width="50" height="50"/>
 </div>
@@ -81,6 +81,8 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 SVGs
 https://devicon.dev/
 
+Texto:
+https://readme-typing-svg.demolab.com/demo/
 
 
 
