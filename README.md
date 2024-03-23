@@ -1,10 +1,12 @@
-<div align="center"> 
-### Olá, meu nome é Igor 🙋‍♂️<br>
-### Hi there, my name is Igor 👋 </div> <br> 
+<h2 align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=600&size=30&pause=1000&color=ED51F7&center=true&vCenter=true&random=false&width=440&height=55&lines=Ol%C3%A1!+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;Meu+nome+%C3%A9+Igor;Hello+%F0%9F%91%8B;My+name+is+Igor)](https://igorlazzaretti.com/)
+</h2>
+
 🧙‍♂️ Fâ de Harry Potter <br> 
 🎓 Análise de Sistemas Cruzeiro do Sul <br>
 💻 Estudante FullStack: Dio.me / DevClub <br>
-👩🏻‍💻 Autor do Site: <a href="https://igorlazzaretti.com/">igorlazzaretti.com<a>
+👩🏻‍💻 Autor do Site: <a href="https://igorlazzaretti.com/">igorlazzaretti.com</a>
 <br>
 📚 Leitor e Estudante de Outras Linguas <br> <br>
 
@@ -53,9 +55,9 @@
 
 ## Veja a cobrinha comendo meus commits
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AecioJose/AecioiJose/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/igorlazzaretti/igorlazzaretti/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/igorlazzaretti/igorlazzaretti/output/github-contribution-grid-snake.svg">
 </picture>
 
 ##
