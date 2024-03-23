@@ -4,18 +4,18 @@
 🎓 Análise de Sistemas Cruzeiro do Sul <br>
 💻 Estudante FullStack: Dio.me / DevClub <br>
 👩🏻‍💻 Autor do Site: <a href="https://igorlazzaretti.com/">igorlazzaretti.com<a>
-
-
- 
 <br>
 📚 Leitor e Estudante de Outras Linguas <br> <br>
 
+<div align="center" >
 
 [![MeuSite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://igorlazzaretti.com)
 [![Youtube](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://igorlazzaretti.com)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://igorlazzaretti.com)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://igorlazzaretti.com)
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://igorlazzaretti.com)
+
+</div>
 
 ## Minhas Tech's Skills
 <div>
@@ -31,19 +31,22 @@
 
 
 ## Status do meu Github
+<div align="center" >
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorlazzaretti&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorlazzaretti&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 
 
 
 
 
 
-###
-<div align="center"> "Acredite nos seus sonhos" <br> - Igor Lazzaretti (Eu)
- </div>
+##
 
+> "Acredite nos seus sonhos" <br> - Igor Lazzaretti (Eu)
+ 
 
 
 
@@ -57,6 +60,12 @@ Ensino
 https://www.youtube.com/watch?v=cRoBt6AZgjc
 Badges
 https://dev.to/envoy_/150-badges-for-github-pnk
+
+SVGs
+https://devicon.dev/
+
+
+
 
 
 
