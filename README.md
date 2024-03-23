@@ -1,5 +1,6 @@
-<div align="center"> ### Olá, meu nome é Igor 🙋‍♂️<br
->### Hi there, my name is Igor 👋 </div> <br> 
+<div align="center"> 
+### Olá, meu nome é Igor 🙋‍♂️<br>
+### Hi there, my name is Igor 👋 </div> <br> 
 🧙‍♂️ Fâ de Harry Potter <br> 
 🎓 Análise de Sistemas Cruzeiro do Sul <br>
 💻 Estudante FullStack: Dio.me / DevClub <br>
@@ -19,14 +20,14 @@
 
 ## Minhas Tech's Skills
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
-  <img src="https://desktop.github.com/images/desktop-icon.svg" title="Github Desktop" **alt="GitHub Desktop" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" title="Windows" **alt="Windows" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"  title="Bootstrap" alt="Bootstrap" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="50" height="50"/>
+  <img src="https://desktop.github.com/images/desktop-icon.svg" title="Github Desktop" **alt="GitHub Desktop" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" title="Windows" **alt="Windows" width="50" height="50"/>
 </div>
 
 
@@ -39,9 +40,18 @@
 </div>
 
 
+## Últimos Projetos
+- <a href="https://igorlazzaretti.github.io/hbomax-project-dio.me/">HBO MAX - Dio.me </a>
+- <a href="https://igorlazzaretti.github.io/caffeeteria-bootstrap-dio.me/">Caffeeteria - Dio.me </a>
+- <a href="https://igorlazzaretti.github.io/Desafio-JokenpoTBBT-DevClub/"> Jokenpo TBBT - DevClub </a>
 
 
-
+## Jogo da Cobrinha
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake.svg">
+</picture>
 
 ##
 
