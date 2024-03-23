@@ -34,8 +34,13 @@
 ## Status do meu Github
 <div align="center" >
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorlazzaretti&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorlazzaretti&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/igorlazzaretti?tab=repositories">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=igorlazzaretti&theme=dark&show_icons=trues" />
+</a>
+<a href="hhttps://github.com/igorlazzaretti?tab=repositories">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorlazzaretti&layout=compact&theme=dark" />
+</a>
+
 
 </div>
 
@@ -49,13 +54,13 @@
 ## Veja a cobrinha comendo meus commits
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/igorlazzaretti/igorlazzaretti/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake.svg">
-</picture> <br>
+</picture>
 
 ##
 
-> "Acredite nos seus sonhos" <br> - Igor Lazzaretti (Eu)
+> "Acredite nos seus sonhos" <br> - Igor Dossin Lazzaretti
  
 
 
