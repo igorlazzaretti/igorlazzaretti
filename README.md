@@ -23,7 +23,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<br>
 
 ## Status do meu Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorlazzaretti&theme=dark&show_icons=true)
