@@ -77,7 +77,6 @@ Ensino
 https://www.youtube.com/watch?v=cRoBt6AZgjc
 Badges
 https://dev.to/envoy_/150-badges-for-github-pnk
-
 SVGs
 https://devicon.dev/
 
