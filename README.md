@@ -23,19 +23,10 @@
 
 ## Minhas Tech's Skills
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"  title="Bootstrap" alt="Bootstrap" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React" width="50" height="50">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp; <img src="https://www.svgrepo.com/show/452211/github.svg" title="GitHub" **alt="GitHub" width="50" height="50"/>
-  <img src="https://desktop.github.com/images/desktop-icon.svg" title="Github Desktop" **alt="GitHub Desktop" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" title="Windows" **alt="Windows" width="50" height="50"/>&nbsp;
-  <img src="https://jwt.io/img/pic_logo.svg" title="JWToken" alt="JWToken" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" title="Eslint" alt="Eslint" width="50" height="50"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/25822731?s=200&v=4" title="Prettier" alt="Prettier" width="50" height="50"/>&nbsp;
-</div>
 
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,bootstrap,javascript,react,nodejs,typescript,express,mongodb,docker,linux,ubuntu,git,github,yarn,figma,linkedin&perline=6)](https://skillicons.dev)
+
+</div>
 
 ## Status do meu Github
 <div align="center" >
