@@ -24,7 +24,7 @@
 ## Minhas Tech's Skills
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,bootstrap,javascript,react,nodejs,typescript,express,mongodb,docker,linux,ubuntu,git,github,yarn,figma,linkedin&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,vim,html,css,bootstrap,javascript,postgres,react,nodejs,typescript,express,mongodb,docker,git,github,yarn,figma,linkedin&perline=6)](https://skillicons.dev)
 
 </div>
 
