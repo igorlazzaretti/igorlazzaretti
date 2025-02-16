@@ -1,4 +1,8 @@
-<img src="./images/Banner Github.png" title="github-logo-banner" alt="github-logo-banner" width="100%" height="100%" />
+<!--
+:technologist: Meu Readme -  acesse igorlazzaretti.com
+Update: New Banner 16/02/2025
+-->
+<img src="./images/banner-16022025.png" title="github-logo-banner" alt="github-logo-banner" width="100%" height="100%" />
 
 <h2 align="center">
 
