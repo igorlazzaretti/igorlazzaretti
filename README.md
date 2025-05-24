@@ -48,10 +48,10 @@ Update: New Banner 16/02/2025
 
 </div>
 
-## Últimos Projetos
+## Alguns Projetos
 
-- <a href="https://igorlazzaretti.github.io/hbomax-project-dio.me/">HBO MAX - Dio.me </a>
-- <a href="https://igorlazzaretti.github.io/caffeeteria-bootstrap-dio.me/">Caffeeteria - Dio.me </a>
+- <a href="https://dossinodontologia.com.br/">Dossin Odontologia - Um projeto real - https://dossinodontologia.com.br </a>
+- <a href="https://github.com/igorlazzaretti/planning-poker">Planning Poker - HTML, CSS e Javascript </a>
 - <a href="https://igorlazzaretti.github.io/Desafio-JokenpoTBBT-DevClub/">Jokenpo TBBT - DevClub </a>
 
 ## Veja a cobrinha comendo meus commits
