@@ -4,11 +4,9 @@ Update: New Banner 16/02/2025
 -->
 <img src="./images/banner-16022025.png" title="github-logo-banner" alt="github-logo-banner" width="100%" height="100%" />
 
-<h2 align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&weight=600&size=30&duration=3000&pause=700&color=6e57e0¢er=true&vCenter=true&random=false&width=490&height=55&lines=Ol%C3%A1!+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Meu+nome+%C3%A9+Igor;Hello!+%F0%9F%91%8B+My+name+is+Igor)](https://git.io/typing-svg)</h2>
-
 <a align=center href="https://github.com/igorlazzaretti?tab=repositories"> Vá direto para meus repositórios!</a>
+
+## 👨‍💻 Quem sou
 
 🎓 Análise de Sistemas - Cruzeiro do Sul <br>
 💻 Estudante FullStack: DevClub <br>
@@ -59,12 +57,6 @@ Update: New Banner 16/02/2025
 ![github contribution grid snake animation](https://raw.githubusercontent.com/igorlazzaretti/igorlazzaretti/output/github-contribution-grid-snake-dark.svg)
 
 ##
-
-<div align="center">
-
-> "Acredite nos seus sonhos" <br> - Igor Dossin Lazzaretti
-
-</div>
 
 <!--
 
