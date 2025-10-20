@@ -2,17 +2,16 @@
 :technologist: Meu Readme -  acesse igorlazzaretti.com
 Update: New Banner 16/02/2025
 -->
-<img src="./images/banner-16022025.png" title="github-logo-banner" alt="github-logo-banner" width="100%" height="100%" />
+<img src="./images/banner.webp" title="github-logo-banner" alt="github-logo-banner" width="100%" height="100%" />
 
 <a align=center href="https://github.com/igorlazzaretti?tab=repositories"> Vá direto para meus repositórios!</a>
 
 ## 👨‍💻 Quem sou
 
 🎓 Análise de Sistemas - Cruzeiro do Sul <br>
-💻 Estudante FullStack: DevClub <br>
-👩🏻‍💻 Autor do Site: <a href="https://igorlazzaretti.com/">igorlazzaretti.com</a>
+💻 React, React Native, PHP... <br>
+👩🏻‍💻 Portfólio: <a href="https://igorlazzaretti.com/">igorlazzaretti.com</a>
 <br>
-📚 Leitor e Estudante de Outras Linguas <br>
 🧙‍♂️ Fã de Harry Potter <br>
 
 <div align="center" >
@@ -25,7 +24,7 @@ Update: New Banner 16/02/2025
 
 </div>
 
-## Minhas Tech's Skills
+## 📱 Minhas Tech's Skills
 
 <div align="center">
 
@@ -33,7 +32,7 @@ Update: New Banner 16/02/2025
 
 </div>
 
-## Status do meu Github
+## 🖖 Status do meu Github
 
 <div align="center" >
 
@@ -46,13 +45,15 @@ Update: New Banner 16/02/2025
 
 </div>
 
-## Alguns Projetos
+## 🥰 Alguns Projetos
 
-- <a href="https://dossinodontologia.com.br/">Dossin Odontologia - Um projeto real - https://dossinodontologia.com.br </a>
-- <a href="https://github.com/igorlazzaretti/planning-poker">Planning Poker - HTML, CSS e Javascript </a>
-- <a href="https://igorlazzaretti.github.io/Desafio-JokenpoTBBT-DevClub/">Jokenpo TBBT - DevClub </a>
+- <a href="https://ivangelica.com.br/">Ivangélica - Ela tem o tino! https://ivangelica.com.br </a>
+- <a href="https://dossinodontologia.com.br/">Dossin Odontologia https://dossinodontologia.com.br </a>
+- <a href="https://github.com/igorlazzaretti/planning-poker">Planning Poker - Sua planning muito mais divertida. </a>
+- <a href="https://igorlazzaretti.github.io/Desafio-JokenpoTBBT-DevClub/">Jokenpo inspirado em The Big Bang Theory </a>
+- <a href="https://scratch.mit.edu/projects/846826964/"> Jogo Pong Inspirado em harry Potter com minha Narração!  </a>
 
-## Veja a cobrinha comendo meus commits
+## 🐍 Veja a cobrinha comendo meus commits
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/igorlazzaretti/igorlazzaretti/output/github-contribution-grid-snake-dark.svg)
 
@@ -60,50 +61,12 @@ Update: New Banner 16/02/2025
 
 <!--
 
-Fontes:
-Ensino
-https://www.youtube.com/watch?v=cRoBt6AZgjc
+:construction_worker: Meu README.md
+Commit: Update Banner and my status
+
 Badges
 https://dev.to/envoy_/150-badges-for-github-pnk
 SVGs
 https://devicon.dev/
-
-Texto:
-https://readme-typing-svg.demolab.com/demo/
-
-
-**igorlazzaretti/igorlazzaretti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
 
 -->
