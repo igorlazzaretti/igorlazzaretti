@@ -4,6 +4,11 @@ Update: New Banner 16/02/2025
 -->
 <img src="./images/banner.webp" title="github-logo-banner" alt="github-logo-banner" width="100%" height="100%" />
 
+🩷 Me ajude a continuar meu trabalho Open Source, seja um Sponsor! 🩷 <br>
+  <a href="https://github.com/sponsors/igorlazzaretti"> 
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="Sponsor on GitHub" />
+  </a>
+
 <a align=center href="https://github.com/igorlazzaretti?tab=repositories"> Vá direto para meus repositórios!</a>
 
 ## 👨‍💻 Quem sou
