@@ -1,6 +1,6 @@
 <!--
-:technologist: Meu Readme -  acesse igorlazzaretti.com
-Update: New Banner 16/02/2025
+:construct_worker: igorlazzaretti.com
+Update: User Commits Graphic
 -->
 <img src="./images/banner.webp" title="github-logo-banner" alt="github-logo-banner" width="100%" height="100%" />
 
@@ -13,8 +13,8 @@ Update: New Banner 16/02/2025
 
 ## 👨‍💻 Quem sou
 
-🎓 Análise de Sistemas - Cruzeiro do Sul <br>
-💻 React, React Native, PHP... <br>
+🎓 Análise de Sistemas, Pós QA <br>
+💻 React, React Native, Node.js, Javascript PHP... <br>
 👩🏻‍💻 Portfólio: <a href="https://igorlazzaretti.com/">igorlazzaretti.com</a>
 <br>
 🧙‍♂️ Fã de Harry Potter <br>
@@ -58,11 +58,23 @@ Update: New Banner 16/02/2025
 - <a href="https://igorlazzaretti.github.io/Desafio-JokenpoTBBT-DevClub/">Jokenpo inspirado em The Big Bang Theory </a>
 - <a href="https://scratch.mit.edu/projects/846826964/"> Jogo Pong Inspirado em harry Potter com minha Narração!  </a>
 
-## 🐍 Veja a cobrinha comendo meus commits
+## 🐍 Snake Game
+
+Se gosta de jogos antigos confira meu site: <a href="https://igorlazzaretti.com/retrogames">igorlazzaretti.com/retrogames</a>
+
+<div align="center"> 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/igorlazzaretti/igorlazzaretti/output/github-contribution-grid-snake-dark.svg)
 
-##
+</div>
+
+## 🎢 Gráfico de Commits
+
+<div align="center"> 
+
+![Gráfico de Atividade do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=igorlazzaretti&theme=react-dark&color=70c3ff&custom_title=Minhas%20Contribuicoes)
+
+</div>
 
 <!--
 
